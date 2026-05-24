@@ -63,11 +63,8 @@ I'm a Computer Science undergrad at **Maharaja Agrasen Institute of Technology (
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprateek&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprateek&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=yourprateek&show_icons=true&theme=dark&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="Prateek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourprateek&layout=compact&theme=dark&hide_border=true&title_color=0A66C2" alt="Top Languages" />
 </div>
 
 ---
