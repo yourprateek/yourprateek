@@ -62,6 +62,7 @@ I'm a Computer Science undergrad at **Maharaja Agrasen Institute of Technology (
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
 ![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprateek&show_icons=true&cache_seconds=1800&theme=tokyonight&hide_border=true)
 
