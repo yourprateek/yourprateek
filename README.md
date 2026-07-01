@@ -79,10 +79,33 @@
 
 I'm always open to collaborating, learning together, or just geeking out about tech.
 
+<hr>
+
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toprateek-gupta/)
-
+  <!-- GitHub -->
+  <a href="https://github.com/yourprateek">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  &nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/toprateek-gupta/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <!-- Gmail -->
+  <a href="mailto:prateekg.dev@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  &nbsp;
+  <!-- Instagram -->
+  <a href="https://instagram.com/your_prateek">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  &nbsp;
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/8hJD0qYSUv">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="48" width="48" alt="LeetCode" />
+  </a>
 </div>
 
 ---
