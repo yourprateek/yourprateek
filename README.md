@@ -1,21 +1,20 @@
 <!-- Header -->
 <div align="center">
 
-```
-██████╗ ██████╗  █████╗ ████████╗███████╗███████╗██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔════╝██║ ██╔╝
-██████╔╝██████╔╝███████║   ██║   █████╗  █████╗  █████╔╝ 
-██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══╝  ██╔══╝  ██╔═██╗ 
-██║     ██║  ██║██║  ██║   ██║   ███████╗███████╗██║  ██╗
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
-```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=45&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Prateek+Gupta+👋;Web+Developer+in+the+making;Aspiring+Cybersecurity+Engineer" alt="Animated Typing Header" />
+</a>
 
-# Hey, I'm Prateek Gupta 👋
+**BTech CSE @ MAIT, Delhi** 
 
-**BTech CSE @ MAIT, Delhi** &nbsp;·&nbsp; **Web Developer in the making** &nbsp;·&nbsp; **Aspiring Cybersecurity Engineer**
+<br/>
 
-[![LinkedIn](https://www.linkedin.com/in/toprateek-gupta/)]
-[![Email](mailto:prateekg.dev@email.com)]
+<a href="https://www.linkedin.com/in/toprateek-gupta/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:prateekg.dev@email.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -25,26 +24,26 @@
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  <p><strong>Frontend</strong></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend Tech" />
+  </p>
+  
+  <br />
+
+  <p><strong>Backend / Learning</strong></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,linux" alt="Backend and OS" />
+  </p>
+  
+  <br />
+
+  <p><strong>Tools</strong></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools" />
+  </p>
 
 </div>
-
----
-
-## 🗺️ My Roadmap
-
-```
-[✅] HTML & CSS Fundamentals
-[✅] JavaScript Basics
-[🔄] Building Projects → Portfolio
-[⬜] React / Node.js
-[⬜] Networking & Linux Fundamentals
-[⬜] Cybersecurity — Ethical Hacking, CTFs
-[⬜] Security Tools — Nmap, Wireshark, Burp Suite
-[⬜] Land my first Security role 🚀
-```
 
 ---
 
@@ -62,6 +61,18 @@
 
 </div>
 
+## 🗺️ My Roadmap
+
+```text
+[✅] HTML & CSS Fundamentals
+[✅] JavaScript Basics
+[🔄] Building Projects → Portfolio
+[⬜] React / Node.js
+[⬜] Networking & Linux Fundamentals
+[⬜] Cybersecurity — Ethical Hacking, CTFs
+[⬜] Security Tools — Nmap, Wireshark, Burp Suite
+[⬜] Land my first Security role 🚀
+
 ---
 
 ## 📫 Let's Connect
@@ -74,8 +85,9 @@ I'm always open to collaborating, learning together, or just geeking out about t
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourprateek&color=blue&style=flat-square)
+---
 
 <div align="center">
   <sub>⚡ Beginner today. Security Engineer tomorrow.</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=yourprateek&color=blue&style=flat-square)
 </div>
