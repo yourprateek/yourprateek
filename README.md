@@ -82,7 +82,7 @@ I'm always open to collaborating, learning together, or just geeking out about t
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=yourprateek&color=blue&style=flat-square)
 
 <div align="center">
   <sub>⚡ Beginner today. Security Engineer tomorrow.</sub>
