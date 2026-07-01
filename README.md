@@ -68,6 +68,10 @@ I'm a Computer Science undergrad at **Maharaja Agrasen Institute of Technology (
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprateek&layout=compact&cache_seconds=1800&hide_border=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourprateek&theme=dark)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourprateek&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
