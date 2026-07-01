@@ -14,22 +14,10 @@
 
 **BTech CSE @ MAIT, Delhi** &nbsp;·&nbsp; **Web Developer in the making** &nbsp;·&nbsp; **Aspiring Cybersecurity Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prateek%20Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toprateek-gupta/)
-[![Email](https://img.shields.io/badge/Email-say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prateekg.dev@email.com)
+[![LinkedIn](https://www.linkedin.com/in/toprateek-gupta/)]
+[![Email](mailto:prateekg.dev@email.com)]
 
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a Computer Science undergrad at **Maharaja Agrasen Institute of Technology (MAIT), Delhi**, currently on a journey from zero to building things on the web — and eventually breaking & securing them.
-
-- 🎓 **B.Tech CSE** — MAIT, Delhi
-- 🌐 Currently learning **Web Development** (HTML, CSS, JavaScript)
-- 🔐 My end goal? A career in **Cybersecurity**
-- 🌱 Always building, always learning
-- 📍 Based in **Delhi, India**
 
 ---
 
