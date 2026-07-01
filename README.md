@@ -71,6 +71,7 @@
 [⬜] Cybersecurity — Ethical Hacking, CTFs
 [⬜] Security Tools — Nmap, Wireshark, Burp Suite
 [⬜] Land my first Security role 🚀
+```
 
 ---
 
