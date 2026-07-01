@@ -1,9 +1,8 @@
 <!-- Header -->
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=45&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Prateek+Gupta+👋;Web+Developer+in+the+making;Aspiring+Cybersecurity+Engineer" alt="Animated Typing Header" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=45&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi,%20I'm%20Prateek%20Gupta%20%F0%9F%91%8B;Web%20Developer%20in%20the%20making;Aspiring%20Cybersecurity%20Engineer" alt="Typing SVG" />
+  </a>
 
 **BTech CSE @ MAIT, Delhi** 
 
