@@ -91,11 +91,11 @@ I'm always open to collaborating, learning together, or just geeking out about t
   </a>
   &nbsp;
   <!-- Gmail -->
-  <a href="mailto:prateekg.dev@email.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  <a href="mailto:prateekg.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   &nbsp;
   <!-- Instagram -->
-  <a href="https://instagram.com/your_prateek"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  <a href="https://instagram.com/your_prateeek"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   &nbsp;
   <!-- LeetCode -->
