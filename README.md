@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Leetcode Stats
 
 <div align="center">
 
@@ -58,6 +58,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourprateek&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/8hJD0qYSUv?theme=dark)
 </div>
 
 ## 🗺️ My Roadmap
