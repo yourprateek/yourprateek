@@ -50,25 +50,26 @@
 
 <div align="center">
 
-![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprateek&show_icons=true&cache_seconds=1800&theme=tokyonight&hide_border=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yourprateek&layout=donut&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=yourprateek&layout=donut&langs_count=4&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprateek&layout=compact)](https://github.com/yourprateek)
+[![Prateek's GitHub stats](https://github-stats-extended.vercel.app/api?username=yourprateek&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yourprateek&theme=dark)](https://git.io/streak-stats)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/8hJD0qYSUv?theme=dark)
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourprateek&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/8hJD0qYSUv?theme=dark)
 </div>
 
 ## 🗺️ My Roadmap
 
 ```text
 [✅] HTML & CSS Fundamentals
-[✅] JavaScript Basics
-[🔄] Building Projects → Portfolio
+[🔄] JavaScript Basics
+[✅] Building Projects → Portfolio
 [⬜] React / Node.js
-[⬜] Networking & Linux Fundamentals
+[🔄] Networking & Linux Fundamentals
 [⬜] Cybersecurity — Ethical Hacking, CTFs
 [⬜] Security Tools — Nmap, Wireshark, Burp Suite
 [⬜] Land my first Security role 🚀
