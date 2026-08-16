@@ -52,7 +52,7 @@
 
 ![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourprateek&show_icons=true&cache_seconds=1800&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprateek&layout=compact&cache_seconds=1800&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourprateek&layout=compact)](https://github.com/yourprateek)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yourprateek&theme=dark)](https://git.io/streak-stats)
 
