@@ -66,9 +66,9 @@
 
 ```text
 [✅] HTML & CSS Fundamentals
-[🔄] JavaScript Basics
+[✅] JavaScript Basics
 [✅] Building Projects → Portfolio
-[⬜] React / Node.js
+[🔄] React / Node.js
 [🔄] Networking & Linux Fundamentals
 [⬜] Cybersecurity — Ethical Hacking, CTFs
 [⬜] Security Tools — Nmap, Wireshark, Burp Suite
