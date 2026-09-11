@@ -58,7 +58,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/8hJD0qYSUv?theme=dark)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourprateek&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourprateek)](https://github.com/yourprateek/github-readme-activity-graph)
 
 </div>
 
